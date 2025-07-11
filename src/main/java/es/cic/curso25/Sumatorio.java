@@ -20,3 +20,4 @@ public class Sumatorio {
         this.total = resultado;
     }
 }
+//Añadiendo cambios
